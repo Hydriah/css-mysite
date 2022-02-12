@@ -1,0 +1,165 @@
+body {
+    color:#40514e;
+    margin: 0;
+    text-align: center ;
+    background-color: #fcfdfd;
+   font-family: 'Merriweather', serif;
+}
+#top{
+    padding-top: 150px;
+    position: relative;
+     margin-bottom: 1px;
+     background-color: #e4f9f5;
+}
+h1 {
+    font-size: 5.25rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+padding-bottom: 5px;
+}
+
+h3{
+      
+    font-family: 'Montserrat', sans-serif;
+   color: #11999E;
+}
+
+p{
+    line-height: 2;
+}
+
+a{
+    color: #11999E;
+    /* font-family: 'Montserrat', sans-serif; */
+    margin: 10px 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+hr{
+  
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+  
+}
+.skill{
+    margin: 100 auto 100 auto;
+}
+.profile p{
+    font-weight: normal;
+    width: 30%;
+    margin: auto;
+}
+
+.bottom-cloud{
+    position:absolute ;
+    left: 250px;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 50px;
+ 
+    
+
+}
+.bottom-container{
+    padding: 50px 0 20px;
+    background-color: #66BFBF;
+    
+}
+button{
+    background-color: #66BFBF ;
+    border: none;
+    margin-bottom: 60px;
+    width: 130px;
+    height: 40px;
+    color: #EAF6F6;
+    border-radius: 60px;
+  }
+
+  button:hover{
+      color: #40514e;
+  }
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+/* .footer-link{
+    color: chartreuse;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+} */
+.bottom-container p {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+
+.skill-rowa{
+    width: 10%;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   
+    
+}
+.woman{
+    width: 5%;
+}
+.code-image{
+   
+    width: 25%;
+    float: left;
+margin-right: 30px;
+}
+.skill-row3{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+
+
+
+/* .blue{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display:inline-block;
+    
+}
+.red{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display:inline-block;
+    
+}
+.yellow{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display:inline-block;
+    
+} */
